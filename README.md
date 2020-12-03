@@ -33,7 +33,7 @@ See `arctic.py --help` to print the usage in the console.
 You can change the word lists paths in `config.ini`.
 
 ## License
-Under 
+Under GNU GPL v2.0. See [`LICENSE`](./LICENSE).
 
 ## The whys 
 ### Why did you create Arctic?
