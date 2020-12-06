@@ -32,6 +32,12 @@ See `arctic.py --help` to print the usage in the console.
 ## Config 
 You can change the word lists paths in `config.ini`.
 
+### Word lists
+You can modifiy, add and remove word lists.
+By default, word lists are stored under `words/`.
+
+For the moment, you **must** have at least two word lists and reference their path in `config.ini` before running the program.
+
 ## License
 Under GNU GPL v2.0. See [`LICENSE`](./LICENSE).
 
